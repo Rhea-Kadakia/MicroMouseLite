@@ -1,4 +1,4 @@
-21737054892950293
+21743814480540431
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90307,9 +90307,37 @@ varistor
 2
 2
 jerry
+AMASS_XT60-M
+
+
+0
+2
+2
+jerry
+MODULE_A4988_STEPPER_MOTOR_DRIVER_CARRIER
+
+
+0
+16
+16
+jerry
 MODULE_RASPBERRY_PI_4B_4GB
 
 
 0
 48
 48
+jerry
+MOLEX_0532610471
+
+
+0
+6
+6
+jerry
+SAMTEC_TSW-106-06-F-S-LL
+
+
+0
+6
+6
